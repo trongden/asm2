@@ -1,12 +1,50 @@
 {
-  "students": [
+  "users": [],
+  "jobs": [
     {
       "id": "1",
-      "fullName": "Nguyễn Văn A",
-      "year": 2005,
-      "code": "ph6688",
-      "major": "Marketing"
+      "title": "Frontend Developer",
+      "company": "FPT Software",
+      "location": "Hà Nội",
+      "salary": 15000000,
+      "employmentType": "Full-time",
+      "description": "Phát triển giao diện web bằng React."
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "company": "CMC Global",
+      "location": "Hà Nội",
+      "salary": 18000000,
+      "employmentType": "Full-time",
+      "description": "Phát triển API bằng Node.js."
+    },
+    {
+      "id": "3",
+      "title": "UI/UX Designer",
+      "company": "VNG Corporation",
+      "location": "TP. Hồ Chí Minh",
+      "salary": 12000000,
+      "employmentType": "Part-time",
+      "description": "Thiết kế giao diện và trải nghiệm người dùng."
+    },
+    {
+      "id": "4",
+      "title": "Intern React Developer",
+      "company": "Tech Company",
+      "location": "Đà Nẵng",
+      "salary": 5000000,
+      "employmentType": "Internship",
+      "description": "Hỗ trợ xây dựng ứng dụng React."
+    },
+    {
+      "id": "5",
+      "title": "Tester",
+      "company": "ABC Technology",
+      "location": "Hà Nội",
+      "salary": 10000000,
+      "employmentType": "Full-time",
+      "description": "Kiểm thử chức năng của ứng dụng web."
     }
-  ],
-  "users": []
+  ]
 }
